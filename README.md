@@ -10,3 +10,7 @@ Exercicio Modulo_4 Técnicas de testes.
 Exercicio Modulo_5 Planejamento e estratégia de teste.
 
 Exercicio Modulo_6 Metodologias ágeis e Teste ágil.
+
+Exercicio Modulo_7 Fluxo de trabalho do ágil.
+
+Exercicio Modulo_8 Técnicas de teste Ágil.
